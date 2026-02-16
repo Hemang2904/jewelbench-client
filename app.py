@@ -8,7 +8,7 @@ import requests
 
 # --- Configuration ---
 # REPLACE THIS WITH YOUR WINDOWS IP
-WINDOWS_IP = "192.168.1.XX" 
+WINDOWS_IP = "192.168.1.109" 
 PORT = "5000"
 
 # Setup Compute
